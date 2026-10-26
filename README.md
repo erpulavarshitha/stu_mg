@@ -1,2 +1,2 @@
-Student system management
+Student system management-register
 
